@@ -1,0 +1,39 @@
+
+.buld-map {
+    position: relative;
+}
+
+.buld-info {
+    width: 200px;
+    border: 2px solid;
+    border-radius: 20px;
+    padding: 12px;
+    background-color: beige;
+    gap: 15px;
+    display: grid;
+    position: absolute;
+    bottom: 14px;
+    right: 7px;
+    
+}
+
+path:hover {
+    fill: #f5f5dc73;
+    stroke: none;
+}
+}
+
+.buld-namber circle {
+    stroke: black
+    stroke-width 1px;
+}
+.buld-namber text {
+    font-size: 49px;
+}
+
+
+.buld-item {}
+
+.buld-path {
+
+}
